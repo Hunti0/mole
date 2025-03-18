@@ -18,6 +18,6 @@ int main() {
 
     //vec grid()
 
-    U = sin(2*pi*)
+    U = sin(2*pi*) //IC
     return 0;
 }
